@@ -6,6 +6,7 @@
 effectManager::effectManager()
 {
 }
+//test
 
 
 effectManager::~effectManager()
